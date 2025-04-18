@@ -237,7 +237,7 @@ Converted["_ListButton"].Position = UDim2.new(0.0450000018, 0, 0.112000003, 0)
 Converted["_ListButton"].Size = UDim2.new(1, 0, 0, 50)
 Converted["_ListButton"].Visible = false
 Converted["_ListButton"].Name = "ListButton"
-Converted["_ListButton"].Parent = Converted["TunxDenChoi"]
+Converted["_ListButton"].Parent = Converted["_YARHM"]
 
 Converted["_UICorner1"].Parent = Converted["_ListButton"]
 
@@ -249,7 +249,7 @@ Converted["_Notifications"].BorderSizePixel = 0
 Converted["_Notifications"].Position = UDim2.new(0.99000001, 0, 0.5, 0)
 Converted["_Notifications"].Size = UDim2.new(0, 242, 1, 0)
 Converted["_Notifications"].Name = "Notifications"
-Converted["_Notifications"].Parent = Converted["TunxDenchoi"]
+Converted["_Notifications"].Parent = Converted["_YARHM"]
 
 Converted["_UIListLayout"].Padding = UDim.new(0, 10)
 Converted["_UIListLayout"].HorizontalAlignment = Enum.HorizontalAlignment.Center
@@ -294,7 +294,7 @@ Converted["_TextBoxPlaceholder"].BorderSizePixel = 0
 Converted["_TextBoxPlaceholder"].Size = UDim2.new(1, 0, 0, 50)
 Converted["_TextBoxPlaceholder"].Visible = false
 Converted["_TextBoxPlaceholder"].Name = "TextBoxPlaceholder"
-Converted["_TextBoxPlaceholder"].Parent = Converted["TunxDenChoi"]
+Converted["_TextBoxPlaceholder"].Parent = Converted["_YARHM"]
 
 Converted["_UIListLayout1"].Padding = UDim.new(0, 5)
 Converted["_UIListLayout1"].FillDirection = Enum.FillDirection.Horizontal
@@ -349,7 +349,7 @@ Converted["_FloatingButton"].Position = UDim2.new(0, 125, 0, 40)
 Converted["_FloatingButton"].Size = UDim2.new(0, 50, 0, 100)
 Converted["_FloatingButton"].Visible = false
 Converted["_FloatingButton"].Name = "FloatingButton"
-Converted["_FloatingButton"].Parent = Converted["TunxDenChoi"]
+Converted["_FloatingButton"].Parent = Converted["_YARHM"]
 
 Converted["_UIPadding3"].PaddingBottom = UDim.new(0, 5)
 Converted["_UIPadding3"].PaddingLeft = UDim.new(0, 5)
@@ -525,7 +525,7 @@ Converted["_DroppedGunBGUI"].Size = UDim2.new(0, 70, 0, 70)
 Converted["_DroppedGunBGUI"].Enabled = false
 Converted["_DroppedGunBGUI"].ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 Converted["_DroppedGunBGUI"].Name = "DroppedGunBGUI"
-Converted["_DroppedGunBGUI"].Parent = Converted["TunxDenchoi"]
+Converted["_DroppedGunBGUI"].Parent = Converted["_YARHM"]
 
 Converted["_TextLabel3"].Font = Enum.Font.SourceSansBold
 Converted["_TextLabel3"].Text = "Súng rơi!"
@@ -553,7 +553,7 @@ Converted["_MurdererBGUI"].StudsOffset = Vector3.new(0, 2, 2)
 Converted["_MurdererBGUI"].Enabled = false
 Converted["_MurdererBGUI"].ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 Converted["_MurdererBGUI"].Name = "MurdererBGUI"
-Converted["_MurdererBGUI"].Parent = Converted["TunDenchoi"]
+Converted["_MurdererBGUI"].Parent = Converted["_YARHM"]
 
 Converted["_TextLabel4"].Font = Enum.Font.SourceSansBold
 Converted["_TextLabel4"].Text = "Kẻ giết người"
@@ -579,7 +579,7 @@ Converted["_Menu"].BorderSizePixel = 0
 Converted["_Menu"].Position = UDim2.new(0.0182283204, 0, 0.968158305, 0)
 Converted["_Menu"].Size = UDim2.new(0, 441, 0, 268)
 Converted["_Menu"].Name = "Menu"
-Converted["_Menu"].Parent = Converted["TunDenchoi"]
+Converted["_Menu"].Parent = Converted["_YARHM"]
 
 Converted["_UICorner10"].Parent = Converted["_Menu"]
 
